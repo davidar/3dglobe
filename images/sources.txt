@@ -1,0 +1,2 @@
+day.jpg:   http://earthobservatory.nasa.gov/Features/BlueMarble/images_bmng/8km/world.topo.bathy.200407.3x5400x2700.jpg
+night.jpg: http://veimages.gsfc.nasa.gov/1438/earth_lights_lrg.jpg
